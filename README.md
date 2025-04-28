@@ -50,8 +50,8 @@ welcome to my GitHub Page. I am Matthew D.
       <br>RabbitMQ
     </td>
        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="visual studio" />
+      <br>Visual Studio
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
@@ -132,8 +132,8 @@ welcome to my GitHub Page. I am Matthew D.
       <br>Rest API
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="visual studio" />
-      <br>Visual Studio
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="flutter" />
