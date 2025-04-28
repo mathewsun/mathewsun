@@ -128,8 +128,8 @@ welcome to my GitHub Page. I am Matthew D.
       <br>sentry
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/vue_logo.png" width="48" height="48" alt="vue" />
+      <br>Vue
     </td>
     <td align="center" width="96">
         <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
