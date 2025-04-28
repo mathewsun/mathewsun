@@ -124,8 +124,8 @@ welcome to my GitHub Page. I am Matthew D.
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
+      <br>Go
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
