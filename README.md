@@ -101,12 +101,6 @@ welcome to my GitHub Page. I am Matthew D.
     </td>
   </tr>
    <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
         <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
       <br>Kubernetes
@@ -126,6 +120,12 @@ welcome to my GitHub Page. I am Matthew D.
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
       <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
