@@ -92,8 +92,8 @@ welcome to my GitHub Page. I am Matthew D.
       <br>JQuery
     </td>
    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
+      <br>Vue
     </td>
         <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
@@ -128,8 +128,8 @@ welcome to my GitHub Page. I am Matthew D.
       <br>Go
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
-      <br>Vue
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="visual studio" />
