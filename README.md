@@ -132,8 +132,8 @@ welcome to my GitHub Page. I am Matthew D.
       <br>Vue
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="visual studio" />
+      <br>Visual Studio
     </td>
     <td align="center" width="96">
         <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
